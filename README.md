@@ -47,7 +47,5 @@ Agent-native primitives, built in the open:
        📈 eventlog — durable agent-native event capture
        🌊 flow — local-first work orchestration for agents -->
 
-## Currently
-
 <!-- TODO(andrew) — your voice. What you're building / focused on. You can describe
      Staub in prose here without linking the private repo. e.g. one or two lines. -->
