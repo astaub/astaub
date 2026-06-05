@@ -29,7 +29,7 @@
 ## Open Source
 
 <!-- TODO(andrew) — revoice this intro line if you like; the list under it is factual. -->
-Skills for your agents:
+I'm building skills for agents:
 
 - ✏️ **[etch](https://github.com/astaub/etch)** — Wireframe
 - 🕊️ **[dove](https://github.com/astaub/dove)** — Message other local agents
