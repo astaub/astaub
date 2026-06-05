@@ -6,7 +6,7 @@
   │  FILLED FOR YOU (facts): the badges + the Open Source list (real install   │
   │  commands). YOURS TO WRITE (voice): everything marked TODO(andrew) —        │
   │  the greeting, tagline, "currently" line. Replace those, delete these       │
-  │  comments, commit. Add charts/eventlog/flow to the list as they go public.  │
+  │  comments, commit. Add charts/eventlog to the list as they go public.  │
   └──────────────────────────────────────────────────────────────────────────┘
 -->
 
@@ -40,6 +40,11 @@ Agent-native primitives, built in the open:
 - 🐏 **[shofar](https://github.com/astaub/shofar)** — a macOS RAM guard for parallel dev-worktree / multi-agent workflows.
   ```text
   go install github.com/astaub/shofar@latest
+  ```
+- 🌊 **[flow](https://github.com/astaub/flow)** — agent-first, local-first work orchestration: track what is in progress, blocked on whom, and shipped, over a git-tracked markdown store.
+  ```text
+  /plugin marketplace add astaub/flow
+  /plugin install flow@flow
   ```
 
 <!-- TODO(andrew) — as they go public, add:
