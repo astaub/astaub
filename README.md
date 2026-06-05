@@ -29,12 +29,12 @@
 ## Open Source
 
 <!-- TODO(andrew) — revoice this intro line if you like; the list under it is factual. -->
-Agent-native primitives, built in the open:
+Skills for your agents:
 
-- ✏️ **[etch](https://github.com/astaub/etch)** — teach your agent to wireframe. Ordered ASCII UI alternatives, no design tool.
-- 🕊️ **[dove](https://github.com/astaub/dove)** — cross-agent messaging: agents working in different projects message each other.
-- 🐏 **[shofar](https://github.com/astaub/shofar)** — a macOS RAM guard for parallel dev-worktree / multi-agent workflows.
-- 🌊 **[flow](https://github.com/astaub/flow)** — agent-first, local-first work orchestration: track what is in progress, blocked on whom, and shipped, over a git-tracked markdown store.
+- ✏️ **[etch](https://github.com/astaub/etch)** — Wireframe
+- 🕊️ **[dove](https://github.com/astaub/dove)** — Message other local agents
+- 🐏 **[shofar](https://github.com/astaub/shofar)** — Adapt to RAM
+- 🌊 **[flow](https://github.com/astaub/flow)** — Track tasks
 
 <!-- TODO(andrew) — as they go public, add:
        📊 charts — terminal-native data charts
