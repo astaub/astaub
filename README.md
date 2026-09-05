@@ -12,9 +12,5 @@
 
 # Andrew Staub
 
-I'm building skills for agents:
+Building Wefunder, Help Somebody and jellyjelly
 
-- ✏️ **[etch](https://github.com/astaub/etch)** — Wireframe
-- 🕊️ **[dove](https://github.com/astaub/dove)** — Message other local agents
-- 🐏 **[shofar](https://github.com/astaub/shofar)** — Adapt to RAM
-- 🌊 **[flow](https://github.com/astaub/flow)** — Orchestrate tasks
